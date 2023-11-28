@@ -1,5 +1,6 @@
 {
   "name": "news-app",
+  "homepage": "https://mishra-tanya.github.io/my-news",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
