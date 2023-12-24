@@ -1,4 +1,22 @@
 .mainDiv{
     display:flex;
     flex-wrap:wrap ;
-}
+}.filter-container {
+    text-align: center;
+    margin: 20px auto; 
+    max-width: 600px; 
+  }
+  
+  .filter-container input {
+    padding: 6px;
+    margin-right: 10px;
+  }
+  
+  .filter-container select {
+    padding: 8px;
+  }
+  .image {
+    height: 200px;
+    object-fit: cover; 
+  }
+  
